@@ -1,0 +1,12 @@
+sno      Report                                parameters                                       Load Time          Load        
+ 1    Pre-clouser report                       01-01-2013 to 31-01-2013                         > 30000ms          heavy
+ 2    Income-cash-flow-project                 01-01-2013 to 31-01-2013                           -----            Low
+ 3    Cash Inflow                              01-01-2013 to 31-01-2013                           -----            Low
+ 4    Cash outflow                             01-01-2013 to 31-01-2013                           -----            Low
+ 5    Delinquency Report                       31-01-2013                                         -----            Low
+ 6    Delinquency Report Branch Wise           31-01-2013                                         -----            Low
+ 7    Demand And Collection Summary Report     31-01-2013                                       > 30000ms          Heavy
+ 8    Branch Wise Disbursement And Charge      01-01-2013 to 31-01-2013                         > 30000ms          Heavy
+      Details Report                                                            
+ 9    Monthly Loan Details Report              01-01-2013 to 31-01-2013                         > 30000MS          Heavy
+ 10   Overdue Detailed Report                  31-01-2013                                          ----            Low
